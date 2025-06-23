@@ -33,7 +33,11 @@ body {
     text-align: justify;
 }
 
-.contenedor a, h2{
+.contenedor a{
+    align-self: flex-start;
+}
+
+.contenedor h2{
     align-self: flex-start;
 }
 
