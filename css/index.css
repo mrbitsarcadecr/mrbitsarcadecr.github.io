@@ -193,6 +193,14 @@ body {
     .mainUsabilidad div iframe{
         width: 100%;
         justify-items: center;
+        object-fit: contain;
+    }
+    
+    .contenedor{
+        
+        
+        width: 100%;
+        justify-items: center;
     }
 
 }
