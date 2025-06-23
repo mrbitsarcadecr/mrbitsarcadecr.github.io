@@ -190,6 +190,9 @@ body {
     .menu-toggle {
         display: block;
     }
-
+    .mainUsabilidad div iframe{
+        width: 100%;
+        justify-items: center;
+    }
 
 }
